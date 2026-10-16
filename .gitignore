@@ -1,0 +1,47 @@
+# Keil build output
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.lnp
+*.dep
+*.sct
+*.htm
+
+# Keil user and debug settings
+*.uvguix.*
+*.uvoptx
+*.dbgconf
+
+# Generated firmware. Publish verified binaries through GitHub Releases.
+*.hex
+*.bin
+
+# Archives, installers, drivers, videos and documents
+*.zip
+*.rar
+*.7z
+*.exe
+*.dll
+*.sys
+*.vxd
+*.apk
+*.pack
+*.mp4
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
