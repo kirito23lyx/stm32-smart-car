@@ -35,7 +35,7 @@
 - 一位数码管及独立按键
 - 电池和稳压供电模块
 
-完整引脚定义见 [docs/pinout.md](docs/pinout.md)。
+完整引脚定义见 [docs/pinout.md](docs/pinout.md)。官方芯片数据手册及模块型号核对状态见 [硬件资料](docs/hardware.md)。
 
 ## 目录结构
 
@@ -49,7 +49,8 @@ firmware/stm32/
 └─ Project.uvprojx Keil 工程
 docs/
 ├─ build.md        编译和烧录说明
-└─ pinout.md       引脚和接线说明
+├─ pinout.md       引脚和接线说明
+└─ hardware.md     官方硬件资料与模块确认状态
 ```
 
 ## 使用方法
